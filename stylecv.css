@@ -1,0 +1,41 @@
+#photo{
+ width: 350px;
+ height: 355px;
+ object-fit: cover;
+ object-position: left;
+ margin-left: 1%;
+
+}
+.contact{
+    background-color: aqua;
+    background-size: 10%;
+    background-position: left;
+    font-size: 15px;
+    padding-left: 10px;
+    padding-top: 0.2%;
+    padding-right: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+body{
+    display: flex;
+}
+
+.contenue{
+    background-color: #e0e0e0 ;
+    padding-left: 35px;
+    font-size: 20px;
+    font-family: fantasy;
+    
+
+}
+hr{ 
+    border: solid;
+    color: black;
+    font-size: 2px;
+    font-weight: 100px ;
+}
+.maj{
+    font-size: 30px;
+    font-weight: 100px;
+    color: black;
+}
