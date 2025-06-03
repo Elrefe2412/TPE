@@ -39,3 +39,5 @@ hr{
     font-weight: 100px;
     color: black;
 }
+@media only screen and (max-width: 500px) {
+}

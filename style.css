@@ -77,12 +77,6 @@ header {
 .texte{
     display: flex;
 }
-
-        /*.hero-content {
-            display: flex;
-            align-items: center;
-            gap: 3rem;
-        }*/
 .profil {
      flex: 1;
 }
@@ -166,4 +160,7 @@ header {
 }
 .fa-envelope{
     color: red;
+}
+@media only screen and (max-width: 500px){
+    
 }
